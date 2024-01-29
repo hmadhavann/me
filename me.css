@@ -12,8 +12,13 @@ img{
 body {
     background-color: lavenderblush;
 }
-
-p{
+h2{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center-email {
+    text-align: center;
+}
+.center-discord{
+    text-align: center;
 }
