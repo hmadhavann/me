@@ -1,9 +1,21 @@
 h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+
 }
 
 body {
     background-color: lavenderblush;
+}
+
+.email {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.discord {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
