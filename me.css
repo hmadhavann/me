@@ -7,18 +7,34 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 200px;
+    height: 260px;
 }
 body {
-    background-color: lavenderblush;
+    background-color: rgb(232, 237, 205);
 }
 h2{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: hotpink;
 }
 .center-email {
+   text-align: center;
+}
+.center-discord {
+    position: relative;
+    margin-top: -10px;
     text-align: center;
 }
-.center-discord{
+.center-hobbies {
     text-align: center;
+}
+
+ul {
+    position: relative;
+    display: inline-block;
+    left: 50%;
+    transform: translateX(-50%);
+    border-style: dashed;
 }
